@@ -1,0 +1,1 @@
+AESChat is the next best thing to a high cost encryption service, drag and drop and iframe the index page into any site element you want. Works and looks great! All messages are encrypted and decrypted livly.
